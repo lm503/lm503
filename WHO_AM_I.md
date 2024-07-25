@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lm503, a PHD/MD student at the University of Leicester
 - 👀 I’m interested in abdominal aortic aneurysm (AAA) screening
 - 💞️ I’m looking to collaborate on methods to improve screening and the health of men and women with AAA
-- 📫 How to reach me; email- lm503@leiceser.ac.uk
+- 📫 How to reach me; email- lm503@leicester.ac.uk
